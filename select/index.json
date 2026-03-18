@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "base_track": "&ME (ME:I Ver.)",
+  "base_artist": "ME:I",
+  "createdAt": "2026-03-18T23:06:27.780802Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "&ME (ME:I Ver.)",
+      "artist": "ME:I",
+      "has_synced": false,
+      "path": "select/01_&ME_(ME_I_Ver.)_ME_I.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Só pra me ver",
+      "artist": "Ivete Sangalo",
+      "has_synced": false,
+      "path": "select/02_Só_pra_me_ver_Ivete_Sangalo.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Volta Vem Me Ver",
+      "artist": "Malla 100 Alça",
+      "has_synced": false,
+      "path": "select/03_Volta_Vem_Me_Ver_Malla_100_Alça.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Vez em Quando Vem Me Ver (Ao Vivo)",
+      "artist": "Chitãozinho & Xororó",
+      "has_synced": true,
+      "path": "select/04_Vez_em_Quando_Vem_Me_Ver_(Ao_Vivo)_Chitãozinho_&_Xororó.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Adorava me ver como seu",
+      "artist": "Djavan",
+      "has_synced": true,
+      "path": "select/05_Adorava_me_ver_como_seu_Djavan.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sem Ninguém Me Ver Chorar (Ao Vivo)",
+      "artist": "Bruno & Marrone",
+      "has_synced": true,
+      "path": "select/06_Sem_Ninguém_Me_Ver_Chorar_(Ao_Vivo)_Bruno_&_Marrone.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "桜が丘女子高等学校校歌 (ライブイベント ~Come with Me!!~ Ver.)",
+      "artist": "放課後ティータイム",
+      "has_synced": true,
+      "path": "select/07_桜が丘女子高等学校校歌_(ライブイベント_~Come_with_Me!!~_Ver.)_放課後ティータイム.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ela não quer mais me ver",
+      "artist": "D$ Luqi",
+      "has_synced": true,
+      "path": "select/08_Ela_não_quer_mais_me_ver_D$_Luqi.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Venha Me Ver",
+      "artist": "Almir Sater",
+      "has_synced": true,
+      "path": "select/09_Venha_Me_Ver_Almir_Sater.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ふわふわ時間 (ライブイベント ~Come with Me!!~ Ver.)",
+      "artist": "放課後ティータイム",
+      "has_synced": false,
+      "path": "select/10_ふわふわ時間_(ライブイベント_~Come_with_Me!!~_Ver.)_放課後ティータイム.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "You Or Me (You Not Me - ver. Demo)",
+      "artist": "Dream Theater",
+      "has_synced": true,
+      "path": "select/11_You_Or_Me_(You_Not_Me_-_ver._Demo)_Dream_Theater.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "桜が丘女子高等学校校歌 (ライブイベント ~Come with Me!!~ Ver.)",
+      "artist": "HO‐KAGO TEA TIME",
+      "has_synced": true,
+      "path": "select/12_桜が丘女子高等学校校歌_(ライブイベント_~Come_with_Me!!~_Ver.)_HO‐KAGO_TEA_TIME.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Venha Me Ver",
+      "artist": "Rupestre",
+      "has_synced": true,
+      "path": "select/13_Venha_Me_Ver_Rupestre.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Quero Ser Seu Namorado / Não Venha Mais Me Ver (Ao Vivo)",
+      "artist": "Calcinha Preta",
+      "has_synced": true,
+      "path": "select/14_Quero_Ser_Seu_Namorado___Não_Venha_Mais_Me_Ver_(Ao_Vivo)_Calcinha_Preta.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Quero Ser Seu Namorado / Não Venha Mais Me Ver (Pout-Pourri)",
+      "artist": "Calcinha Preta",
+      "has_synced": true,
+      "path": "select/15_Quero_Ser_Seu_Namorado___Não_Venha_Mais_Me_Ver_(Pout-Pourri)_Calcinha_Preta.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Pra Ninguém Me Ver",
+      "artist": "Cynthia Luz",
+      "has_synced": true,
+      "path": "select/16_Pra_Ninguém_Me_Ver_Cynthia_Luz.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Vem Logo Me Ver (Ao Vivo)",
+      "artist": "Desejo De Menina",
+      "has_synced": true,
+      "path": "select/17_Vem_Logo_Me_Ver_(Ao_Vivo)_Desejo_De_Menina.lrc"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "&ME (ME:I Ver.)",
+      "artist": "ME:I",
+      "has_synced": true,
+      "path": "select/localdb_01_&ME_(ME_I_Ver.)_ME_I.lrc",
+      "repo_name": "t_KSmUsCFw8"
+    }
+  ]
+}
